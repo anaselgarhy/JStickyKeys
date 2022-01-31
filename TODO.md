@@ -1,0 +1,6 @@
+- [ ] Create the core of project
+- [ ] Create th gui
+- [ ] Add the key timer
+- [ ] Add the configs system
+- [ ] Create the installer script (for linux)
+- [ ] Create the installer script (for windows)
